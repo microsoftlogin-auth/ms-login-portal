@@ -282,11 +282,10 @@ img{
     vertical-align: middle;
 }
 
-@media screen and (max-width: 600px) {
-   html, body{
+@media screen and (max-width:600px) {
+    html, body{
         background-color: #fff;
     }
-}
     section{
         display:block !important;
     }
